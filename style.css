@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+#header-center {
+ text-align: center;
+}
+  /* styles.css */
+#featured-property figure {
+  text-align: center;
+}
+#nav-link{
+  text-align: center;
+}
+#nav-link a{
+background-color: grey;
+padding: 10px 10px;
+}
+#featured-property p{
+  width: 800px;
+  margin: 20px auto;
+  text-align: center;
+}
+.details-horizontal{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+background-color: red;
+text-align:center ;
+}
+.details-horizontal div{
+}
